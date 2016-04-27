@@ -1,4 +1,4 @@
-Statamic Bacon Ipsum Plugin
+Statamic Bacon Ipsum Plugin ![Statamic v1](https://img.shields.io/badge/statamic-v1-lightgrey.svg?style=flat-square)
 ================================
 
 The Bacon Ipsum plugin will generate you steaming piles of glorious bacon ipsum, ready to fill in all the gaps and holes in your content.
